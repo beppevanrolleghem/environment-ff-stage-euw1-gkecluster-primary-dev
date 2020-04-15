@@ -1,0 +1,10 @@
+adminUser:
+  password: local:ff-stage-euw1-gkecluster-primary/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: beppe.vanrolleghem@gmail.com
+  token: local:ff-stage-euw1-gkecluster-primary/pipelineUser:token
+  username: beppevanrolleghem
+prow:
+  hmacToken: local:ff-stage-euw1-gkecluster-primary/prow:hmacToken
