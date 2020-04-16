@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: beppevanrolleghem
+    provider: github
+    repository: frontend-node
+  name: beppevanrolleghem-frontend-node
+spec:
+  description: Imported application for beppevanrolleghem/frontend-node
+  httpCloneURL: https://github.com/beppevanrolleghem/frontend-node.git
+  org: beppevanrolleghem
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: frontend-node
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/beppevanrolleghem/frontend-node.git
