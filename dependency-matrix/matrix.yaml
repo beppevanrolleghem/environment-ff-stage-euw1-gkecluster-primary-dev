@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: beppevanrolleghem
+  repo: frontend-node
+  url: https://github.com/beppevanrolleghem/frontend-node.git
+  version: ""
+  versionURL: ""
